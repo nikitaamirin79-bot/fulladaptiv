@@ -1,0 +1,124 @@
+.display {
+    font-family: "Work Sans";
+    font-weight: 200;
+    font-size: 192.93px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+    margin: 0;
+}
+
+.display__accent {
+    color: #506349;
+}
+
+.heading-1 {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 100%;
+    letter-spacing: -8%;
+    color: #2E4F21;
+    margin: 0;
+}
+
+.heading-2 {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+    color: #2E4F21;
+    margin: 0;
+}
+
+.heading-3 {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+    color: #2E4F21;
+    margin: 0;
+}
+
+.heading-3_white {
+    color: white;
+}
+
+.heading-4 {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+    color: #2E4F21;
+    margin: 0;
+}
+
+.heading-5 {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+    color: #2E4F21;
+    margin: 0;
+}
+
+.quote {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    margin: 0;
+}
+
+.green__quote {
+    color: #2E4F21;
+}
+
+.paragraph {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #2E4F21;
+    margin: 0;
+}
+
+.paragraph__white {
+    color: white;
+}
+
+.label-1 {
+    font-family: "Work Sans";
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    margin: 0;
+    color: #506349;
+}
+
+.label-1__white {
+    color: white;
+}
+
+.label-2 {
+    font-family: "DM Sans";
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: -2%;
+    margin: 0;
+}
+
+.label-2__green {
+    color: #2E4F21;
+}
+
+.center_text {
+    text-align: center;
+}

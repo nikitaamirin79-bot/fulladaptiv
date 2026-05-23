@@ -1,0 +1,261 @@
+@media (min-width: 1px) and (max-width: 799px) {
+
+                                                /*FONTS*/
+    .display {
+        font-size: 112px;
+    }
+
+    .heading-1 {
+        font-size: 40px;
+    }
+
+    .heading-2 {
+        font-size: 32px;
+    }
+
+    .heading-3 {
+        font-size: 28px;
+    }
+
+    .heading-4 {
+        font-size: 22px;
+    }
+
+    .heading-5 {
+        font-size: 18px;
+    }
+
+    .quote {
+        font-size: 18px;
+    }
+
+    .paragraph {
+        font-size: 16px;
+    }
+
+    .label-1 {
+        font-size: 12px;
+    }
+
+    .label-2 {
+        font-size: 15px;
+    }
+
+
+                        /*NAVIGATION__TABLET*/
+    .navigation {
+        max-width: 343px;
+        margin: 0 auto;
+        padding: 16px;
+    }
+
+    .btn__desktop_tablet {
+        display: none;
+    }
+
+    .btn__mobile {
+        display: flex;
+    }
+
+                        /*HEADER*/
+    .header {
+        max-width: 343px;
+        margin: 0 auto;
+        padding: 40px 16px;
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 40px;
+    }
+
+    .hero__img {
+        width: 343px;
+    }
+
+                        /*MAIN*/
+    .services {
+        max-width: 343px;
+        margin: 0 auto;
+        padding: 120px 16px 100px;
+    }
+
+    .text__services-paragraph {
+        text-align: center;
+    }
+                        /*FEATURES*/
+    .features {
+        max-width: 375px;
+        margin: 0 auto; 
+    }
+
+    .card{
+        padding: 40px 16px;
+        margin: 0 16px 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+        align-items: center;
+    }
+
+    .card__right {
+        padding: 40px 16px;
+        margin: 0 16px 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+        align-items: center;
+    }
+
+    .money__img {
+        width: 311px;
+    }
+
+    .stonks__img {
+        width: 311px;
+    }
+
+    .seif__img {
+        width: 311px;
+    }
+
+                        /*PROFILE*/
+    .profesional {
+        max-width: 375px;
+        margin: 0 auto;
+    }
+
+    .profile {
+        padding: 36px;
+        gap: 40px;
+    }
+
+    .br__hear {
+        display: block;
+    }
+
+    .down__profile {
+        gap: 28px;
+        flex-direction: column;
+    }
+
+    .card__profile {
+        min-width: 0;
+        padding: 16px 12px;
+    }
+
+    .left__info__profile {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .right__info__people {
+        padding: 0;
+        border-left: none;
+    }
+
+    .heading-5__green-label {
+        color: #2E4F21;
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .heading-5__revers-label {
+        color: #fff;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+        /* break__img */
+    .picture__section {
+        max-width: 375px;
+    }
+
+                        /*SMART__FINANCE*/
+    .smart__finance {
+        max-width: 343px;
+        margin: 0 auto;
+        padding: 80px 16px;
+        display: flex;
+        flex-direction: column;
+        gap: 80px;
+    }            
+    
+    .smart__finance__cards {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .smart__card {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        padding: 20px 0 20px;
+        border-top: 1px solid #2E4F21;
+        border-left: none;
+    }
+
+    .smart__finance__text {
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+    }
+
+                        /*CTA__SECTION*/
+
+    .CTA__section {
+        max-width: 295px;
+        margin: 0 auto;
+        padding: 50px 40px;
+        flex-direction: column-reverse;
+    }
+
+                        /*WEBELIEVE*/
+    .webelieve {
+        max-width: 327px;
+        margin: 0 auto;
+        padding: 160px 24px;
+        background-color: #F9F9F9;
+    }
+
+    .predfooter {
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+        align-items: center;
+    }
+
+    .br {
+        display: none;
+    }
+
+                        /*FOOTER*/
+    .footer {
+        display: none;
+    }
+
+    .btn__foot {
+        justify-content: space-between;
+    }
+
+    .footer__mobile {
+        max-width: 327px;
+        padding: 32px 24px;
+        margin: 0 auto;
+        background-color: #2E4F21;
+        display: flex;
+        flex-direction: column;
+        gap: 80px;
+    }
+
+    .footer__mobile_top-block {
+        display: flex;
+        flex-direction: column;
+        gap: 80px;
+    }
+
+    .footer__mobile_bottom-block {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+}

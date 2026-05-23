@@ -1,0 +1,197 @@
+@media (min-width: 800px) and (max-width: 1279px) {
+
+                                                /*FONTS*/
+    .display {
+        font-size: 152px;
+    }
+
+    .heading-1 {
+        font-size: 58px;
+    }
+
+    .heading-2 {
+        font-size: 48px;
+    }
+
+    .heading-3 {
+        font-size: 34px;
+    }
+
+    .heading-4 {
+        font-size: 26px;
+    }
+
+    .heading-5 {
+        font-size: 18px;
+    }
+
+    .quote {
+        font-size: 24px;
+    }
+
+    .paragraph {
+        font-size: 16px;
+    }
+
+    .label-1 {
+        font-size: 12px;
+    }
+
+    .label-2 {
+        font-size: 15px;
+    }
+
+
+                        /*NAVIGATION__TABLET*/
+    .navigation {
+        max-width: 752px;
+        margin: 0 auto;
+        padding: 24px 24px;
+    }
+
+    .btn__mobile {
+        display: none;
+    }
+
+                        /*HEADER*/
+    .header {
+        max-width: 752px;
+        margin: 0 auto;
+        padding: 100px 24px;
+    }
+
+    .hero__img {
+        width: 273px;
+    }
+
+                        /*MAIN*/
+    .services {
+        max-width: 752px;
+        margin: 0 auto;
+        padding: 120px 24px 100px;
+    }
+                        /*FEATURES*/
+    .features {
+        max-width: 800px;
+        margin: 0 auto; 
+    }
+
+    .card{
+        padding: 64px 50px;
+        margin: 20px 24px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 60px;
+        align-items: center;
+    }
+
+    .card__right {
+        display: inline-flex;
+        flex-direction: row-reverse;
+    }
+
+    .money__img {
+        width: 296px;
+    }
+
+    .stonks__img {
+        width: 313px;
+    }
+
+    .seif__img {
+        width: 296px;
+    }
+
+                        /*PROFILE*/
+    .profesional {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .down__profile {
+        gap: 28px;
+    }
+
+        /* break__img */
+    .picture__section {
+        max-width: 800px;
+    }
+
+    .br__hear {
+        display: none;
+    }
+
+                        /*SMART__FINANCE*/
+    .smart__finance {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 80px 40px 120px;
+        display: flex;
+        flex-direction: column;
+        gap: 100px;
+    }            
+    
+    .smart__finance__cards {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .smart__card {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        padding: 20px 160px 20px 0;
+        border-top: 1px solid #2E4F21;
+        border-left: none;
+    }
+
+    .smart__finance__text {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 50px;
+    }
+
+                        /*CTA__SECTION*/
+
+    .CTA__section {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 50px 40px;
+    }
+
+                        /*WEBELIEVE*/
+    .webelieve {
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 160px 80px;
+        background-color: #F9F9F9;
+    }
+
+    .predfooter {
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+        align-items: center;
+    }
+
+    .br {
+        display: none;
+    }
+
+                        /*FOOTER*/
+    .footer {
+        max-width: 736px;
+        max-height: 346px;
+        padding: 32px;
+        gap: 80px;
+    }
+
+    .btn__foot {
+        justify-content: space-between;
+    }
+
+    .footer__mobile {
+        display: none;
+    }
+}

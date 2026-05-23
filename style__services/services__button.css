@@ -1,0 +1,79 @@
+.link {
+    text-decoration: none;
+    color: #2E4F21;
+}
+
+.link__green {
+    display: inline-flex;
+    padding: 12px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #2E4F21;
+    border-radius: 51.57px;
+    box-sizing: border-box;
+    justify-content: flex-start;
+}
+
+.link__green__big {
+    display: inline-flex;
+    padding: 24px 30px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #2E4F21;
+    border-radius: 51.57px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.link__wh {
+    text-decoration: none;
+    color: #fff;
+}
+
+.link__white {
+    display: inline-flex;
+    padding: 12px;
+    text-decoration: none;
+    color: #2E4F21;
+    background-color: #fff;
+    border-radius: 51.57px;
+    box-sizing: border-box;
+    display: flex;
+    align-self: flex-start;
+}
+
+.link__green:active {
+    background-color: #2a7a46;
+}
+
+.link__wh:active {
+    color: #b6b0b0;
+}
+
+.link__white:active {
+    background-color: #b6b0b0;
+}
+
+.link__green__big:active {
+    background-color: #2a7a46;
+}
+
+.link:hover {
+    color: #2a7a46;
+}
+
+.link__green:hover {
+    background-color: #2a7a46;
+}
+
+.link__wh:hover {
+    color: #b6b0b0;
+}
+
+.link__white:hover {
+    background-color: #b6b0b0;
+}
+
+.link__green__big:hover {
+    background-color: #2a7a46;
+}

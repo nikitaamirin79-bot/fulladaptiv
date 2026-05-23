@@ -1,0 +1,131 @@
+@media (min-width: 800px) and (max-width: 1279px) {
+                                                    /*FONTS*/
+    .display {
+        font-size: 152px;
+    }
+
+    .heading-1 {
+        font-size: 58px;
+    }
+
+    .heading-2 {
+        font-size: 48px;
+    }
+
+    .heading-3 {
+        font-size: 34px;
+    }
+
+    .heading-4 {
+        font-size: 26px;
+    }
+
+    .heading-5 {
+        font-size: 18px;
+    }
+
+    .quote {
+        font-size: 24px;
+    }
+
+    .paragraph {
+        font-size: 16px;
+    }
+
+    .label-1 {
+        font-size: 12px;
+    }
+
+    .label-2 {
+        font-size: 15px;
+    }
+
+                            /*NAVIGATION__TABLET*/
+    .navigation {
+        max-width: 752px;
+        margin: 0 auto;
+        padding: 24px 24px;
+    }
+
+    .btn__mobile {
+        display: none;
+    }
+
+                        /*HEADER*/
+    .header {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 100px 40px;
+        display: flex;
+        gap: 80px;
+        background-color: #F9F9F9;
+        align-items: center;
+    }
+    
+    .notebook__img {
+        width: 320px;
+    }
+
+    .services__break__image {
+        max-width: 800px;
+    }
+
+                        /*HOW-IS-WORKS*/
+    .how-is-works {
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 120px 80px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .how-works__card {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .right__info__card {
+        flex-direction: column;
+        padding: 24px 24px 80px 24px;
+    }
+
+    .br__services {
+        display: none;
+    }
+                        /*PHILOSOPHY*/
+
+    .philosophy {
+        max-width: 720px;
+        padding: 80px 40px;
+        margin: 0 auto;
+    }
+
+                        /*CALCULATOR*/
+    .calculator {
+        max-width: 720px;
+        gap: 24px;
+        background-color: #F4F7F5;
+    }
+
+    .calculator__info {
+        width: 100%;
+        padding: 0;
+    }
+
+                        /*FOOTER*/
+    .footer {
+        max-width: 736px;
+        max-height: 346px;
+        padding: 32px;
+        gap: 80px;
+    }
+
+    .btn__foot {
+        justify-content: space-between;
+    }
+
+    .footer__mobile {
+        display: none;
+    }
+}
